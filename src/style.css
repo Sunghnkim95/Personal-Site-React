@@ -1,0 +1,16 @@
+/* * { 
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+} */
+.background{
+	margin: 2%;
+	background-position: fixed;
+	background-color: black;
+	opacity: 0.75;
+	color: white;
+	font-family: 'cursive';
+	font-style: oblique;
+	font-size: 18px;
+	padding: 30px;
+}
