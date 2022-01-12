@@ -10,6 +10,7 @@ Some of the to dos for thie project includes, but are not limited to:
   * About Me
     *  How I got here and who I am as a person!
     *  My skills
+    *  Links to Github, linked in
     *  Hobbies (might go overboard with this one)
   * Projects & the struggles and achievement for each one
     *  This Personal Site 
