@@ -1,13 +1,14 @@
 import React from "react";
 import { BrowserRouter as Router, Link, Switch, Route } from 'react-router-dom';
+import HeaderStyle from './../styles/HeaderStyle.css'
 
 const Header = () => {
     return (
         <>  
         <div className="header">
             <div className="websiteName">김성훈</div>
-            <nav className="directory">
-                <ul>
+            <nav>
+                <ul className="directory">
                     <Link to="/home" className="link">
                         <li className="navBtn">Home</li>
                     </Link>

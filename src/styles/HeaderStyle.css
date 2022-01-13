@@ -1,0 +1,28 @@
+.header{
+    display: grid;
+    grid-template-columns: 120px 120px ; 
+    margin-left: 65%;
+    column-gap: 30px;
+    align-items: center;
+    margin-top: 1%;
+}
+.websiteName{
+    font-size: x-large;
+    font-weight: bolder;
+    writing-mode: vertical-rl;
+    margin-left: 65%;
+    
+}
+.directory{
+    display: grid;
+    grid-template-columns: 80px 120px 105px 100px; 
+    column-gap: 10px;
+/*  margin-left: 70%; */ 
+}
+ .link{
+    display: inline;
+    font-family: "Akaya Telivigala";
+    font-size: x-large;
+    color: black;
+    list-style-type: none;
+ }
