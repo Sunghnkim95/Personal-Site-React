@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import './style.css'
 //import { BrowserRouter as Router, Link, Switch, Route } from 'react-router-dom';
-import { Header } from './components';
+import { Header, HomePage } from './components';
 
 
 const App = () => {
@@ -13,7 +13,10 @@ const App = () => {
         <Header/>
     </Router>
     <div className='background'>
-        "If you desire one thing for so long, it's a given that you'll miss other things along the way. That's how it is... that's life." -Godo
+
+        <Router>
+            <HomePage/>
+        </Router>
     </div>
     </>
     )

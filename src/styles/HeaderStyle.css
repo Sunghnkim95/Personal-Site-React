@@ -1,16 +1,16 @@
 .header{
     display: grid;
     grid-template-columns: 120px 120px ; 
-    margin-left: 65%;
+    margin-left: 63%;
     column-gap: 30px;
     align-items: center;
-    margin-top: 1%;
+    margin-top: 0.8%;
 }
 .websiteName{
     font-size: x-large;
     font-weight: bolder;
     writing-mode: vertical-rl;
-    margin-left: 65%;
+    margin-left: 60%;
     
 }
 .directory{
@@ -22,7 +22,8 @@
  .link{
     display: inline;
     font-family: "Akaya Telivigala";
-    font-size: x-large;
+    font-size: 25px;
+    font-weight: bold;
     color: black;
     list-style-type: none;
  }

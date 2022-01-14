@@ -6,7 +6,7 @@ const Header = () => {
     return (
         <>  
         <div className="header">
-            <div className="websiteName">김성훈</div>
+        {/*<div className="websiteName">김성훈</div>*/}            
             <nav>
                 <ul className="directory">
                     <Link to="/home" className="link">
