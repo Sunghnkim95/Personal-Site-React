@@ -2,7 +2,7 @@ import React from 'react';
 import Kim from './../img/Kim.png'
 import Sung from './../img/Sung.png'
 import Hoon from './../img/Hoon.png'
-import Name from './../img/NameCalig.jpg'
+import Name from './../img/NameCalig2.jpg'
 import HomePageStyle from './../styles/HomePageStyle.css'
 import ProfessionalPhoto from './../img/Peter.jpg'
 import MountainPhoto from "./../img/Mountain.jpg"
@@ -21,9 +21,6 @@ const HomePage = () => {
             onMouseOver={e => (e.currentTarget.src = MountainPhoto)} 
             onMouseLeave={e => (e.currentTarget.src = ProfessionalPhoto)}
         />
-
-
-
         </div>
         </>
     )
