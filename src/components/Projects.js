@@ -13,7 +13,10 @@ const HomePage = () => {
             <div>
                 <h2 className='projectTitle'>McLovins</h2>
                 <p className='projectDescription'>
-                    
+                    E-commerce website, developed in a team of 4, using React.js framework to develope a functional frontend 
+                    interaction allowing users to view, register, login, add cart items, and purchase products via a friendly 
+                    interface. Mclovins is supported by a backend constitution pillared by Express, Morgan, and jsonwebtoken, 
+                    allowing elevated security.
                 </p>
                 <img/>
             </div>
