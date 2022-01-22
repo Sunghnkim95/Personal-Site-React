@@ -5,7 +5,7 @@ import HomePageStyle from './../styles/HomePageStyle.css'
 import ProfessionalPhoto from './../img/Peter.jpg'
 import MountainPhoto from "./../img/Mountain.jpg"
 
-const HomePage = () => {
+const Projects = () => {
 
     return (
         <>
@@ -52,7 +52,7 @@ const HomePage = () => {
                 <img/>
             </div>
             <div>
-                <h2 className='otherProjects'>Check Out My Other Projects</h2>
+                <h2 className='otherProjects'>Check Out Some Of My Other Works</h2>
 
                 <p className='otherProjectTitle'>Calculator</p>
                 <a href="https://calculatorpk.netlify.app/"> Visit Calculator Here</a>
@@ -73,4 +73,4 @@ const HomePage = () => {
     )
 }
 
-export default HomePage;
+export default Projects;

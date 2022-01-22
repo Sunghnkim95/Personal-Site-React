@@ -9,7 +9,7 @@ const Header = () => {
         {/*<div className="websiteName">김성훈</div>*/}            
             <nav>
                 <ul className="directory">
-                    <Link to="/home" className="link">
+                    <Link to="/" className="link">
                         <li className="navBtn">Home</li>
                     </Link>
                     <Link to="/aboutme" className="link">
