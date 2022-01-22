@@ -7,7 +7,12 @@ const Contact = () => {
     return (
         <>
         <div className="contact">
-            <p>This my Contact</p>
+            <p>Peter Kim</p>
+            <p>Phone #: (571) 345 - 4369</p>
+            <p>Email Address: Sunghnkim95@gmail.com </p>
+            <p>Peter </p>
+            <h2>Social Medias:</h2>
+            
         </div>
         </>
     )

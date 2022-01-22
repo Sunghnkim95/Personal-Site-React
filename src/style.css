@@ -1,19 +1,21 @@
-/* * { 
+/* 
+{ 
 	margin:0;
 	padding:0;
 	box-sizing: border-box;
-} */
-.background{
+} 
+ .background{
 	margin: auto;
 	margin-top: 0.5%;
 	background-position: fixed;
-/* 	background-color: rgba(0, 0, 0, 0.7);
- */	color: black;
+ 	background-color: rgba(0, 0, 0, 0.7);
+	color: black;
 	font-family: 'cursive';
 	font-style: oblique;
  	font-size: 18px;
 	padding: 30px;
 	width: 70%;
 	position: center;
-	
-}
+} 
+
+*/

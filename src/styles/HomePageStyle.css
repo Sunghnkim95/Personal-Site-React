@@ -1,22 +1,18 @@
 .homepageNamePhoto{
     opacity: 0.5;
-    margin-top:20px;
-    margin-left: 130px;
+    margin-top:4%;
+    margin-left: 25%;
 }
-/* .professionalPhotoAndName{
-    margin-top: 20%;
-    margin-left: 15%;
-} */
 .professionalPhoto{
     border-radius: 50%;
-    margin-bottom: 17%;
+    margin-bottom: 15%;
     margin-left: 5%;
 }
 .homepageName{
     color: black;
     font-size: 50px;
     font-weight: bolder;
-    margin-left: 39%;
+    margin-left: 58%;
     margin-top: 33%;
     position: fixed;
 }
@@ -24,6 +20,6 @@
     color: black;
     font-size: 50px;
     font-weight: bolder;
-    margin-left: 32%;
+    margin-left: 52%;
     margin-top: 36%;
     position: fixed;}
